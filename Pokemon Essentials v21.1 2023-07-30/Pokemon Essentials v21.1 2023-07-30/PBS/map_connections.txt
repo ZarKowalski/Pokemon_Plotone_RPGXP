@@ -38,7 +38,9 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Sorgipoli (22) - Percorso 1 (32)
-22,South,0,32,North,2
+# Percorso 1 (32) - Sorgipoli (22)
+32,North,2,22,South,0
 # Fragolosia (42) - Percorso 1 (32)
 42,North,0,32,South,3
+# Percorso 2 (43) - Fragolosia (42)
+43,East,0,42,West,3
